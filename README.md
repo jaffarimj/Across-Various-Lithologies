@@ -3,7 +3,7 @@ Improving Drilling Efficiency by Minimizing Mud Loss in Various Rock Formations 
 # AI-Optimized Drilling to Reduce Mud Loss Across Various Lithologies
 
 <p align="center">
-  <img width="1000" src="Assets/GIF_optGIF_opt (1).gif">
+  <img width="1000" src="Simulated Results/GIF_optGIF_opt (1).gif">
 </p>
 
 ## Research Overview
@@ -66,7 +66,7 @@ Five main tabs:
 5. Streaming
 
 <p align="left">
-  <img width="800" src="Assets/Capture2.PNG">
+  <img width="800" src="Simulated Results/Capture2.PNG">
 </p>
 
 ## Key Results
@@ -75,8 +75,8 @@ Five main tabs:
 - Reduced environmental impact through optimized practices
 
 <p align="left">
-  <img width="320" src="Assets/Fig7ARMA1215.PNG">
-  <img width="320" src="Assets/Fig8ARMA1215.PNG">
+  <img width="320" src="Simulated Results/Fig7ARMA1215.PNG">
+  <img width="320" src="Simulated Results/Fig8ARMA1215.PNG">
 </p>
 
 ## Project Team
