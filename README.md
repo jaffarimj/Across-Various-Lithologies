@@ -81,8 +81,7 @@ Five main tabs:
 
 ## Project Team
 - **Researchers:**
-  - Engr. Irfan Muhammad Jaffar
-  - Engr. Azan Hyder Bhutto 
+  - Engr. Irfan Muhammad Jaffar 
 
 ## References
 1. Al-Ghamdi, S., et al. (2024). *Journal of Petroleum Engineering*
